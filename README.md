@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 🧪 Contour-Control Simulation (State-Space Based)
@@ -93,5 +92,3 @@ Department of Mechanical Engineering
 ## 🪪 License
 
 MIT License – feel free to use for learning or non-commercial use.
-
-````
