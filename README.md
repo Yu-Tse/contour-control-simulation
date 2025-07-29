@@ -1,7 +1,6 @@
----
-````markdown
+
 # 🧪 Contour-Control Simulation (State-Space Based)
----
+
 This repository contains a simulation of a 2-axis contour control system, completed as a final assignment for the **Numerical Methods** course (Lab 6 – Dec 2022). The system uses a state-space model to track a predefined geometric path composed of lines and arcs, under different feedrates.
 
 > ✅ This project was written in Python with assistance from ChatGPT for code structuring and debugging. All logic and final implementation were verified and tested by the author.
