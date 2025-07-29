@@ -91,3 +91,10 @@ Department of Mechanical Engineering
 ## 🪪 License
 
 MIT License – feel free to use for learning or non-commercial use.
+
+## 🙋‍♂️ Author
+
+**Yu-Tse Wu** (吳雨澤)  
+*Master’s Student at the Institute of Innovation and Semiconductor Manufacturing, National Sun Yat-sen University*
+
+GitHub: [@Yu-Tse](https://github.com/Yu-Tse)
