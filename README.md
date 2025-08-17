@@ -71,14 +71,6 @@ pip install numpy matplotlib control
 
 ---
 
-## 🧑‍🎓 Author
-
-**Yu-Tse Wu (吳雨澤)**
-National Chung Cheng University
-Department of Mechanical Engineering
-
----
-
 ## 📘 Notes
 
 * This project was completed as a university lab assignment.
